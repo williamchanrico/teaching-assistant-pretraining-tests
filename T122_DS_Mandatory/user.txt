@@ -1,0 +1,10 @@
+rio|io|14|admin
+hermanto|manto|50|member
+andry kurniawan|awan|56|member
+charles sutanto|char|25|member
+dianto erwin|erwin|28|admin
+kuki karuna|kuki|125|admin
+izra|iz|9|member
+timothy agustian|tim|15|admin
+susi|sus|4|member
+stephanus sujatmoko|moko|19|member

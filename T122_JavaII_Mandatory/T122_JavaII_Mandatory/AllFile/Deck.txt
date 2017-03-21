@@ -1,0 +1,51 @@
+MN001#The 13th Grave#3#1200#900#200#
+MN002#3-Hump Lacooda#3#500#1500#200#
+MN003#30000-Year White Turtle#5#1250#2100#500#
+MN004#4-Starred Ladybug of Doom#3#800#1200#400#
+MN005#7 Colored Fish#4#1800#800#600#
+MN006#8-Claws Scorpion#2#300#200#50#
+MN007#A-Team: Trap Disposal Unit#2#300#400#70#
+MN008#A/D Changer#1#100#100#20#
+MN009#Abaki#4#1700#1000#500#
+MN010#Abare Ushioni#4#1200#1200#600#
+MN011#Absolute Crusader#4#1800#1200#700#
+MN012#Absorbing Jar#3#600#500#300#
+MN013#Abyss Dweller#4#1700#1400#700#
+MN014#Adreus, Keeper of Armageddon#5#2600#1700#1200#
+MN015#Aether, The Empowering Dragon#6#2300#1600#1100#
+MN016#Aggiba, The Malevolent Sh'nn S'yo#9#3000#3000#2000#
+MN017#Air Eater#6#2100#1600#1500#
+MN018#Airknight Parshath#5#1900#1400#1250#
+MN019#Aither The Heaven Monarch#8#2800#1000#2500#
+MN020#Akihiron#5#1700#1400#1580#
+MN021#Alector, Sovereign of Birds#6#2400#2000#2200#
+MN022#Alexandrite Dragon#4#2000#100#1800#
+MN023#Alien Dog#3#1500#1000#1400#
+MN024#Bracchio-Raidus#6#2200#2000#2000#
+MN025#Crawling Dragon 2#4#1600#1200#1600#
+MN026#Dark Driceratops#6#2400#1500#1980#
+MN027#Destroyersaurus#4#1800#1100#1610#
+MN028#Dogoran, The Mad Flame Kaiju#8#3000#1200#2850#
+MN029#Element Saurus#4#1500#1200#1380#
+MN030#Evolsaur Darwino#5#2200#700#1750#
+MN031#Gladiator Beast Gaiodiaz#7#2600#1500#2440#
+MN032#Jurrac Meteor#9#2800#2000#2750#
+MN033#Fenrir The Nordic Wolf#9#4000#4000#5000#
+MN034#Jormungardr the Nordic Serpent#8#3000#3000#4000#
+MN035#Odin, Father of the Aesir#9#4000#3500#4500#
+MN036#Black Skull Dragon#9#3200#2500#3500#
+MN037#Blue-Eyes Shining Dragon#9#3000#2500#3500#
+MN038#Blue-Eyes Toon Dragon#8#3000#2500#3500#
+MN039#Blue-Eyes Utimate Dragon#12#4500#3800#10000#
+MN040#Blue-Eyes White Dragon#8#3000#2500#3500#
+MN041#Chaos Emperor Dragon - Envoy of the End#8#3000#2500#3500#
+MG042#Seed Cannon#When this card played, Enemy's life points decreased by 500#500#1500#2#2#0#
+MG043#Soul Absorption#When this card played, increase your life points by 500 points#500#1500#3#2#0#
+MG044#Chronomaly Pyramid Eye Tablet#Each Player's lifepoints decreased by 500 points#500#1500#1#2#0#
+MG045#Burning Land#destroy all cards in the land#10000#5000#1#1#0#
+MG046#Ancient Gear Castle#Each player's monsters defense increased by 300 points#300#800#1#1#0#
+MG047#Blessing of the Nile#Your own life points increased by 1000#1000#2000#3#2#0#
+MG048#Blaze Accelerator#all defense of your monster increased by 500#500#1500#3#1#2#
+MG049#Cloudian Squall#When this card played increase your monster defense by 1000#1000#2000#3#1#1#
+MG050#Constellar Blade#When this card actived, destroyed a card of enemy#10000#2500#2#1#1#
+MG051#Nuclear Rocket#When this card played, destroyed all enemy monster cards in the field#10000#10000#2#1#2#
